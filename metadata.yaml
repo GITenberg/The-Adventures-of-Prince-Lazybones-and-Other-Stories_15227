@@ -1,0 +1,31 @@
+_repo: The-Adventures-of-Prince-Lazybones-and-Other-Stories_15227
+_version: 0.1.0
+alternative_title: Prince Lazybones and Other Stories
+covers:
+- cover_type: archival
+  image_path: 15227-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hays, Helen Ashe
+    alias: Hays, Mrs. W. J.
+    gutenberg_agent_id: '5926'
+    url: http://www.gutenberg.org/2009/agents/5926
+description: ''
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15227'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Christmas -- Juvenile fiction'
+tableOfContents: 'The Adventures of Prince Lazybones -- Phil''s Fairies -- Florio
+  and Florella: a Christmas Fairy Tale -- Boreas Bluster''s Christmas Present.'
+title: The Adventures of Prince Lazybones, and Other Stories
+url: http://www.gutenberg.org/ebooks/15227
